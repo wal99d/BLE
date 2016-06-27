@@ -1,1 +1,1 @@
-(http://i.imgur.com/xiKxVL1.jpg)
+![Alt Text](http://i.imgur.com/xiKxVL1.jpg)
