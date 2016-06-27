@@ -1,1 +1,1 @@
-[[ https://www.dropbox.com/s/x27cdh0bfsp2ekh/BLE.jpg | height = 200px ]]
+[[ http://i.imgur.com/xiKxVL1.jpg | height = 200px ]]
