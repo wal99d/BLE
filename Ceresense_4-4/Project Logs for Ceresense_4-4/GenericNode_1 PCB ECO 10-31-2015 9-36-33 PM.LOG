@@ -1,0 +1,21 @@
+Added Component: Designator=CLK(ProgPin)
+Added Component: Designator=CS(ProgPin)
+Added Component: Designator=MISO(ProgPin)
+Added Component: Designator=MOSI(ProgPin)
+Added Component: Designator=SPI_DEBUG(ProgPin)
+Added Pin To Net: NetName=NetCLK_1 Pin=CLK-1
+Added Pin To Net: NetName=NetCLK_1 Pin=U1-18
+Added Net: Name=NetCLK_1
+Added Pin To Net: NetName=NetCS_1 Pin=CS-1
+Added Pin To Net: NetName=NetCS_1 Pin=U1-19
+Added Net: Name=NetCS_1
+Added Pin To Net: NetName=NetMISO_1 Pin=MISO-1
+Added Pin To Net: NetName=NetMISO_1 Pin=U1-22
+Added Net: Name=NetMISO_1
+Added Pin To Net: NetName=NetMOSI_1 Pin=MOSI-1
+Added Pin To Net: NetName=NetMOSI_1 Pin=U1-20
+Added Net: Name=NetMOSI_1
+Added Pin To Net: NetName=NetR 2_1 Pin=R 2-1
+Added Pin To Net: NetName=NetR 2_1 Pin=SPI_DEBUG-1
+Added Pin To Net: NetName=NetR 2_1 Pin=U1-26
+Added Net: Name=NetR 2_1

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=X 2-2
+Removed Pin From Net: NetName=NetU1_10 Pin=X 2-3
+Change Component Comment : Designator=R 2 Old Comment=R, 0402 New Comment=47k
+Change Component Library : Designator=L3 Old Library=Schlib_Ceresense_4-4.SchLib New Library=Schlib_GenericNode_1.SchLib
+Change Component Library : Designator=X 2 Old Library=Schlib_GenericNode_1.SchLib New Library=Schlib_Ceresense_4-4.SchLib
+Added Pin To Net: NetName=VBAT Pin=L3-2
+Added Pin To Net: NetName=NetU1_10 Pin=X 2-2
+Added Pin To Net: NetName=GND Pin=X 2-3
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=U1-1
+Added Net: Name=NetL3_1

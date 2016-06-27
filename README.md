@@ -1,1 +1,1 @@
-[[ http://i.imgur.com/xiKxVL1.jpg | height=200px ]]
+![Alt BLE](http://i.imgur.com/xiKxVL1.jpg)

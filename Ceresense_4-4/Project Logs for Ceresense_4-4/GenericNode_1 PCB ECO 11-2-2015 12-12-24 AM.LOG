@@ -1,0 +1,6 @@
+Added Component: Designator=GND(ProgPin)
+Added Component: Designator=TP 1(TP)
+Added Component: Designator=VBAT(ProgPin)
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=VBAT Pin=TP 1-1
+Added Pin To Net: NetName=VBAT Pin=VBAT-1

@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: GenericNode_1.PcbDoc   11/3/2015  11:00:32 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GenericNode_1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          40               6.62 Inch (168.13 mm)
+---------------------------------------------------------------------------
+Totals                                            40               6.62 Inch (168.13 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

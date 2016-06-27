@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R 1
+Added Component: Designator=R1(R0402)
+Added Component: Designator=U2(LED GREEN CLEAR 0402 SMD)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-25
+Added Net: Name=NetR1_2

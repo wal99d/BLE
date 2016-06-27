@@ -1,0 +1,8 @@
+Added Component: Designator=L1(L1210- Power Inductor)
+Added Component: Designator=L2(L0402)
+Added Pin To Net: NetName=VDD_REG_IN Pin=L1-2
+Added Pin To Net: NetName=ANTENNA Pin=L2-1
+Added Pin To Net: NetName=NetC11_2 Pin=L2-2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-31
+Added Net: Name=NetL1_1

@@ -1,0 +1,7 @@
+Change Component Comment : Designator=L2 Old Comment=0402, Inductor New Comment=5n1
+Change Component Comment : Designator=L1 Old Comment=1210 Ferrite New Comment=4u7
+Added Component: Designator=X 2(16Mhz)
+Added Pin To Net: NetName=NetC18_2 Pin=X 2-1
+Added Pin To Net: NetName=GND Pin=X 2-2
+Added Pin To Net: NetName=NetC19_2 Pin=X 2-3
+Added Pin To Net: NetName=GND Pin=X 2-4

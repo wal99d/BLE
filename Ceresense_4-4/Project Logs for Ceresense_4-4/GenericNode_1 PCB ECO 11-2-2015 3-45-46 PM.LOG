@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R 1
+Change Component Designator: OldDesignator=R2 NewDesignator=R 2
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP 2
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP 3
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP 4
+Change Component Designator: OldDesignator=X2 NewDesignator=X 2
+Added Component: Designator=U 2(ANTENNA)
+Added Component: Designator=U 3(ANTENNA)
+Added Pin To Net: NetName=ANTENNA Pin=U 3-1
